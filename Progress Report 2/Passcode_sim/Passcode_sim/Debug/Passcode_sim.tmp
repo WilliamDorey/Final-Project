@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>E:\PROJECT\Passcode_sim\Passcode_sim\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.2.209\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\PROJECT\Passcode_sim\Passcode_sim\Debug\Passcode_sim.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Passcode_sim.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Passcode_sim.map</FILE>
+  <FILE>Passcode_sim.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <code_saved><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>11</LINE></code_saved>
+  <code_attempt><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>12</LINE></code_attempt>
+  <reset><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>22</LINE></reset>
+  <init><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>24</LINE></init>
+  <main><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>36</LINE></main>
+  <save_saved><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>42</LINE></save_saved>
+  <save_attempt><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>51</LINE></save_attempt>
+  <check><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>71</LINE></check>
+  <bad><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>84</LINE></bad>
+  <good><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>80</LINE></good>
+  <fini><FILE>E:\PROJECT\Passcode_sim\Passcode_sim\main.asm</FILE><LINE>87</LINE></fini>
+ </LABELS>
+</ASSEMBLER_INFO>
